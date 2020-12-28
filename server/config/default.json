@@ -1,0 +1,4 @@
+{
+    "mongoURI" : "mongodb+srv://mongoproject:mongo@2020@cluster0.x5k4j.mongodb.net/mern-auth?retryWrites=true&w=majority",
+    "jwtSecret" : "jwtSecret"
+}
